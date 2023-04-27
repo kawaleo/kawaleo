@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kawaleo/kawaleo/main/banner.png" alt="Name banner">
+
 # Sup 👋! I'm kawaleo.
 
 ###
