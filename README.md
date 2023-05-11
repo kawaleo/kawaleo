@@ -43,6 +43,8 @@ My second programming language was Java, which I learned because of my interest 
 
 HTML was my third "language" as I learned it to make websites. After a month of learning HTML, I began learning CSS and now I'm fluent in both after approximately one month. As I ventured into web development, I began learning Javascript, spending two months on it. I then learned NodeJS and some of its features, which took about four months.
 
+After HTML I learned Python which only took a few days, there's not much to say there. I don't really like it.
+
 My latest discovery was Rust, which I learned about from YouTube and decided to give it a try. I've been using Rust ever since and have put it into practice by making my own programming language, CLI tools, and even creating crates on crates.io. Although I haven't yet completed the Rust book, I find it awesome and enjoy using it.
 
 For text editing, I used to use VSCode but eventually moved on to Neovim for its customizability and efficiency. Although it had a high learning curve and took a while to customize, I eventually got it working to my liking.
