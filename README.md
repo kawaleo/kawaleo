@@ -1,5 +1,5 @@
 # brady <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-I make random projects held together by hopes, dreams, and glue (not even good glue, like the cheap Elmer's one you find misplaced in the snack isle at Target)
+I make random projects held together by hopes, dreams, and glue (cheap, cheap glue)
 
 ### shit i be using
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
